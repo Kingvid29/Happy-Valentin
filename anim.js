@@ -4,7 +4,7 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [ 
-{ text: "Tu cabello rizado, como un remolino de sol,", time: 30 },
+{ text: "Tu cabello rizado, como un remolino de sol,", time: 40 },
 { text: "espejos dorados que brillan en cada rincón.", time: 18 },
 { text: "Rubia como la luna que en la noche se asoma,", time: 27 },
 { text: "y en tus rizos, mi corazón se asoma.", time: 32 },
